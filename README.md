@@ -13,14 +13,15 @@
 7️⃣📂 Directory Structure
 
 
-✨ Overview
+1. Overview
+   
 -The DisplayAllProduct servlet is a foundational Java project designed to demonstrate the integration of servlets,
 JSP, and a MySQL database.It retrieves product data from a database and forwards it to a JSP page for rendering. 
 Ideal for those learning Java web development.
 
 
 
- 🚀 Features
+ 🚀 2. Features
  
 -🗂️ Fetches data seamlessly from a MySQL database.
 
@@ -31,7 +32,7 @@ Ideal for those learning Java web development.
 -✅ Implements HTTP request handling with servlets.
 
 
-🛠️ Technologies Used
+🛠️ 3. Technologies Used
 
 -Language: Java
 
@@ -46,12 +47,12 @@ Ideal for those learning Java web development.
 -Dependency Management: Maven (optional)
 
 
-📦 Setup and Installation
--Prerequisites
+📦4. Setup and Installation
+ Prerequisites
 Ensure the following tools are installed on your system:
 
 
-🖥️ Java JDK 8+
+🖥️5. Java JDK 8+
 -🐱‍💻 Apache Tomcat 9+
 
 -🐬 MySQL Server
@@ -59,7 +60,7 @@ Ensure the following tools are installed on your system:
 -🛠️ IDE (e.g., Eclipse, IntelliJ IDEA)
 
 
-📖 Usage
+📖6. Examples of Usage
 -Navigate to the URL provided after deployment.
 
 -View all products in a table rendered by the display.jsp page.
@@ -68,7 +69,7 @@ Ensure the following tools are installed on your system:
 
 
 
-📂 Directory Structure
+📂 7. Directory Structure
 ├── src/main/java/com/tka
 │   ├── DisplayAllProduct.java
 │   ├──AddProduct.java
