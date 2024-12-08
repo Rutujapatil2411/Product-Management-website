@@ -21,32 +21,52 @@ Ideal for those learning Java web development.
 
 
  🚀 Features
+ 
 -🗂️ Fetches data seamlessly from a MySQL database.
+
 -🌐 Displays data dynamically on a JSP page.
+
 -📋 Modular and reusable code structure.
+
 -✅ Implements HTTP request handling with servlets.
 
+
 🛠️ Technologies Used
+
 -Language: Java
+
 -Database: MySQL
+
 -Web Framework: Servlet API
+
 -Frontend: JSP (JavaServer Pages)
+
 -Server: Apache Tomcat
+
 -Dependency Management: Maven (optional)
+
 
 📦 Setup and Installation
 -Prerequisites
 Ensure the following tools are installed on your system:
 
+
 🖥️ Java JDK 8+
 -🐱‍💻 Apache Tomcat 9+
+
 -🐬 MySQL Server
+
 -🛠️ IDE (e.g., Eclipse, IntelliJ IDEA)
+
 
 📖 Usage
 -Navigate to the URL provided after deployment.
+
 -View all products in a table rendered by the display.jsp page.
+
 -Extend the functionality to include filtering, sorting, or additional views as needed.
+
+
 
 📂 Directory Structure
 ├── src/main/java/com/tka
